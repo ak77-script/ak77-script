@@ -1,6 +1,4 @@
-# Скользящие средние
+[# Скользящие средние](https://github.com/ak77-script/ak77-script/Pine/Movings.md)
 
 <!---
-ak77-script/ak77-script is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
