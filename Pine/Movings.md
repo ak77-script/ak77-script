@@ -2,7 +2,7 @@
 
 *Скользящие средние* (moving averages) - один из наиболее распространенных технических индикаторов, используемых при анализе финансовых рынков.
 
-## Виды скользящих средних, встроенных в TradingView
+## Скользящие средние, встроенные в TradingView
 
 ta.sma (Simple Moving Average) 
 https://www.tradingview.com/pine-script-reference/v5/#fun_ta{dot}sma
