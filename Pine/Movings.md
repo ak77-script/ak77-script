@@ -16,6 +16,7 @@ SMA строится путем суммирования всех значени
 ([описание в руководстве TV](https://www.tradingview.com/pine-script-reference/v5/#fun_ta{dot}sma)).
 
 ### Взвешенная скользящая средняя (WMA, Weighted Moving Average)
+
 ta.wma (Weighted Moving Average) 
 https://www.tradingview.com/pine-script-reference/v5/#fun_ta{dot}wma
 
