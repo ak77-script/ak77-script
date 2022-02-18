@@ -4,6 +4,8 @@
 
 ## Скользящие средние, встроенные в TradingView
 
+### Простое скользящее среднее (Simple Moving Average)
+
 ta.sma (Simple Moving Average) 
 https://www.tradingview.com/pine-script-reference/v5/#fun_ta{dot}sma
 
