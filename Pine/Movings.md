@@ -12,6 +12,7 @@
 
 SMA строится путем суммирования всех значений за выбранный период времени и деления суммы на количество значений. 
 
+В языке PineScript пятой версии для построения SMA используется встроенная фуфункция 'ta.sma' 
 ta.sma (Simple Moving Average) 
 https://www.tradingview.com/pine-script-reference/v5/#fun_ta{dot}sma
 
