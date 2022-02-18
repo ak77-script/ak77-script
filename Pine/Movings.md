@@ -4,6 +4,8 @@
 
 ## Скользящие средние, встроенные в TradingView
 
+>Далее и везде TradingView - TV
+
 ### Простое скользящее среднее (Simple Moving Average)
 
 ta.sma (Simple Moving Average) 
