@@ -15,6 +15,7 @@ SMA строится путем суммирования всех значени
 В языке PineScript пятой версии для построения SMA используется встроенная функция `ta.sma` 
 ([описание в руководстве TV](https://www.tradingview.com/pine-script-reference/v5/#fun_ta{dot}sma)).
 
+### Взвешенная скользящая средняя
 ta.wma (Weighted Moving Average) 
 https://www.tradingview.com/pine-script-reference/v5/#fun_ta{dot}wma
 
